@@ -18,19 +18,14 @@
 
 ---
 
-## 📂 Loyiha misollari
 
-- [My-Classroom](https://github.com/kadirov111/my-classroom) — Django asosidagi onlayn ta'lim platformasi
-- [API Shop](https://github.com/kadirov111/api-shop) — RESTful API bilan ishlovchi onlayn do‘kon
-- [Portfolio Sayt](https://kadirov111.github.io) — GitHub Pages orqali yaratilgan shaxsiy vebsayt
-
----
 
 ## 📞 Bog‘lanish
 
 - 📧 **Email**: abduvahhobovicmuhammadaziz@gmail.com *(agar mavjud bo‘lsa o‘zgartirasiz)*
 - 📷 [Instagram: @kadirov1_m](https://instagram.com/kadirov1_m)
 - 💬 [Telegram: @kadirov1_m](https://t.me/kadirov1_m)
+- number [+998 77-036-73-66]
 
 ---
 
