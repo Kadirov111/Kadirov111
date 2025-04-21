@@ -5,8 +5,7 @@
 ---
 
 ## 💡 Men haqimda
-
-Salom! Men **Muhammadaziz**, tajribali Python va Django dasturchisiman. Backend ilovalar, RESTful API'lar va veb platformalar yaratishga ixtisoslashganman. Kodlashda tozalikka, strukturaga va funksionallikka katta e’tibor beraman.
+Салам всем ! Я аитишник python devoloper етого хватит
 
 ---
 
